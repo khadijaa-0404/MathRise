@@ -45,7 +45,7 @@ The platform analyzes students' answers and mistakes to provide feedback and hel
 
 ## 🎥 Demo Video
 
-**[ https://youtu.be/-2cRCdl_3FU]**
+**[https://youtu.be/-2cRCdl_3FU]**
 
 ---
 
